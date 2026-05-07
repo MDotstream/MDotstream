@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-darkgrey?style=for-the-badge&logo=github)
-![GitHub](https://img.shields.io/badge/json?style=for-the-badge&logo=json)
+![Static Badge](https://img.shields.io/badge/json)
 ---
 
 ## 📊 Stats GitHub
