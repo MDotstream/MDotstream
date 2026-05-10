@@ -41,3 +41,5 @@
 
 ## ⚡ Fun fact
 > Je progresse en codant… et en cassant des trucs 😄
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/93bce30b-7f63-43e6-a36e-36ead273a321/deploy-status)](https://app.netlify.com/projects/mdotstream/deploys)
